@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/7884761/Downloads/Vers-o-5-master/Vers-o-5-master/app/src/main/res/layout/activity_cadastro_ingrediente.xml" value="0.28958333333333336" />
+        <entry key="..\:/Users/7884761/Downloads/esse1/Vers-o-4-master/app/src/main/res/layout/fragment_ingrediente.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/7884761/Downloads/esse1/Vers-o-4-master/app/src/main/res/layout/item_lista_ingrediente.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/7884761/Downloads/vers-o-7-master/vers-o-7-master/app/src/main/res/layout/activity_cadastro_ingrediente.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/7884761/Downloads/vers-o-7-master/vers-o-7-master/app/src/main/res/layout/activity_cadastro_receita.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/7884761/Downloads/vers-o-7-master/vers-o-7-master/app/src/main/res/layout/fragment_ingrediente.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/7884761/Downloads/vers-o-7-master/vers-o-7-master/app/src/main/res/layout/fragment_receita.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/7884761/Downloads/vers-o-7-master/vers-o-7-master/app/src/main/res/layout/item_lista_cardpet.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/7884761/Downloads/vers-o-7-master/vers-o-7-master/app/src/main/res/layout/item_lista_ingrediente.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/7884761/Downloads/vers-o-7-master/vers-o-7-master/app/src/main/res/layout/item_lista_receita.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/laris/AndroidStudioProjects/ClinicaVeterinariaNav/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/laris/AndroidStudioProjects/ClinicaVeterinariaNav/app/src/main/res/drawable/background.xml" value="0.1575" />
+        <entry key="..\:/Users/laris/AndroidStudioProjects/ClinicaVeterinariaNav/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.1575" />
+        <entry key="..\:/Users/laris/AndroidStudioProjects/ClinicaVeterinariaNav/app/src/main/res/drawable/ic_baseline_contact_phone_24.xml" value="0.1" />
+        <entry key="..\:/Users/laris/AndroidStudioProjects/ClinicaVeterinariaNav/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1" />
+        <entry key="..\:/Users/laris/AndroidStudioProjects/ClinicaVeterinariaNav/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.1575" />
+        <entry key="..\:/Users/laris/AndroidStudioProjects/ClinicaVeterinariaNav/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1" />
+        <entry key="..\:/Users/laris/AndroidStudioProjects/ClinicaVeterinariaNav/app/src/main/res/drawable/ic_baseline_vpn_key_24.xml" value="0.1" />
+        <entry key="..\:/Users/laris/AndroidStudioProjects/ClinicaVeterinariaNav/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/laris/AndroidStudioProjects/ClinicaVeterinariaNav/app/src/main/res/layout/activity_cadastro_user.xml" value="0.264" />
+        <entry key="..\:/Users/laris/AndroidStudioProjects/ClinicaVeterinariaNav/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/laris/AndroidStudioProjects/ClinicaVeterinariaNav/app/src/main/res/layout/activity_main.xml" value="0.1671875" />
+        <entry key="..\:/Users/laris/AndroidStudioProjects/ClinicaVeterinariaNav/app/src/main/res/layout/activity_tela_inicial.xml" value="0.1671875" />
+        <entry key="..\:/Users/laris/AndroidStudioProjects/ClinicaVeterinariaNav/app/src/main/res/layout/activity_tela_receitas_doces.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/laris/AndroidStudioProjects/ClinicaVeterinariaNav/app/src/main/res/layout/activity_tela_usuario.xml" value="0.1671875" />
+        <entry key="..\:/Users/laris/AndroidStudioProjects/ClinicaVeterinariaNav/app/src/main/res/layout/activity_tipo_comida.xml" value="0.264" />
+        <entry key="..\:/Users/laris/Documents/Aplicativo-de-Receitas-Trabalho-3-master/Aplicativo-de-Receitas-Trabalho-3-master/app/src/main/res/layout/activity_cadastro_user.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Aplicativo-de-Receitas-Trabalho-3-master/Aplicativo-de-Receitas-Trabalho-3-master/app/src/main/res/layout/activity_cronograma_semanal.xml" value="0.2351851851851852" />
+        <entry key="..\:/Users/laris/Documents/Aplicativo-de-Receitas-Trabalho-3-master/Aplicativo-de-Receitas-Trabalho-3-master/app/src/main/res/layout/activity_informacoes_conta.xml" value="0.2351851851851852" />
+        <entry key="..\:/Users/laris/Documents/Aplicativo-de-Receitas-Trabalho-3-master/Aplicativo-de-Receitas-Trabalho-3-master/app/src/main/res/layout/activity_lista_compras.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Aplicativo-de-Receitas-Trabalho-3-master/Aplicativo-de-Receitas-Trabalho-3-master/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Aplicativo-de-Receitas-Trabalho-3-master/Aplicativo-de-Receitas-Trabalho-3-master/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Aplicativo-de-Receitas-Trabalho-3-master/Aplicativo-de-Receitas-Trabalho-3-master/app/src/main/res/layout/activity_tela_excluir_conta.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Aplicativo-de-Receitas-Trabalho-3-master/Aplicativo-de-Receitas-Trabalho-3-master/app/src/main/res/layout/activity_tela_lista_receitas.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Aplicativo-de-Receitas-Trabalho-3-master/Aplicativo-de-Receitas-Trabalho-3-master/app/src/main/res/layout/activity_tela_receita.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Aplicativo-de-Receitas-Trabalho-3-master/Aplicativo-de-Receitas-Trabalho-3-master/app/src/main/res/layout/activity_tela_trocar_dados.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Aplicativo-de-Receitas-Trabalho-3-master/Aplicativo-de-Receitas-Trabalho-3-master/app/src/main/res/layout/activity_tipo_comida.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Aplicativo-de-Receitas-master -esse/Aplicativo-de-Receitas-esse/app/src/main/res/layout/activity_cadastro_user.xml" value="0.1" />
+        <entry key="..\:/Users/laris/Documents/Aplicativo-de-Receitas-master -esse/Aplicativo-de-Receitas-esse/app/src/main/res/layout/activity_informacoes_conta.xml" value="0.1" />
+        <entry key="..\:/Users/laris/Documents/Aplicativo-de-Receitas-master -esse/Aplicativo-de-Receitas-esse/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/laris/Documents/Aplicativo-de-Receitas-master -esse/Aplicativo-de-Receitas-esse/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/laris/Documents/Aplicativo-de-Receitas-master -esse/Aplicativo-de-Receitas-esse/app/src/main/res/layout/activity_tela_excluir_conta.xml" value="0.1" />
+        <entry key="..\:/Users/laris/Documents/Aplicativo-de-Receitas-master -esse/Aplicativo-de-Receitas-esse/app/src/main/res/layout/activity_tela_inicial.xml" value="0.2351851851851852" />
+        <entry key="..\:/Users/laris/Documents/Aplicativo-de-Receitas-master -esse/Aplicativo-de-Receitas-esse/app/src/main/res/layout/activity_tela_lista_receitas.xml" value="0.1" />
+        <entry key="..\:/Users/laris/Documents/Aplicativo-de-Receitas-master -esse/Aplicativo-de-Receitas-esse/app/src/main/res/layout/activity_tela_receita.xml" value="0.1" />
+        <entry key="..\:/Users/laris/Documents/Aplicativo-de-Receitas-master -esse/Aplicativo-de-Receitas-esse/app/src/main/res/layout/activity_tela_trocar_dados.xml" value="0.1" />
+        <entry key="..\:/Users/laris/Documents/Aplicativo-de-Receitas-master -esse/Aplicativo-de-Receitas-esse/app/src/main/res/layout/activity_tela_usuario.xml" value="0.1" />
+        <entry key="..\:/Users/laris/Documents/Aplicativo-de-Receitas-master -esse/Aplicativo-de-Receitas-esse/app/src/main/res/layout/activity_tipo_comida.xml" value="0.1" />
+        <entry key="..\:/Users/laris/Documents/Aplicativo-de-Receitas-master/Aplicativo-de-Receitas-master/app/src/main/res/layout/activity_tela_lista_receitas.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Aplicativo-de-Receitas-master/Aplicativo-de-Receitas-master/app/src/main/res/layout/activity_tela_receita.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Aplicativo-de-Receitas-master/Aplicativo-de-Receitas-master/app/src/main/res/layout/activity_tela_trocar_dados.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Aplicativo-de-Receitas-master/Aplicativo-de-Receitas-master/app/src/main/res/layout/activity_tela_usuario.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Aplicativo-de-Receitas-master/Aplicativo-de-Receitas-master/app/src/main/res/layout/activity_tipo_comida.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/TENTATIVA_DE_ATUALIZAR/Trabalho-3-Aplicativo-de-Receitas-master/app/src/main/res/layout/activity_cadastro_pet.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/laris/Documents/TENTATIVA_DE_ATUALIZAR/Trabalho-3-Aplicativo-de-Receitas-master/app/src/main/res/layout/activity_cadastro_user.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/TENTATIVA_DE_ATUALIZAR/Trabalho-3-Aplicativo-de-Receitas-master/app/src/main/res/layout/activity_cronograma_semanal.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/TENTATIVA_DE_ATUALIZAR/Trabalho-3-Aplicativo-de-Receitas-master/app/src/main/res/layout/activity_informacoes_conta.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/TENTATIVA_DE_ATUALIZAR/Trabalho-3-Aplicativo-de-Receitas-master/app/src/main/res/layout/activity_lista_compras.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/TENTATIVA_DE_ATUALIZAR/Trabalho-3-Aplicativo-de-Receitas-master/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/TENTATIVA_DE_ATUALIZAR/Trabalho-3-Aplicativo-de-Receitas-master/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/TENTATIVA_DE_ATUALIZAR/Trabalho-3-Aplicativo-de-Receitas-master/app/src/main/res/layout/activity_tela_excluir_conta.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/TENTATIVA_DE_ATUALIZAR/Trabalho-3-Aplicativo-de-Receitas-master/app/src/main/res/layout/activity_tela_lista_receitas.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/TENTATIVA_DE_ATUALIZAR/Trabalho-3-Aplicativo-de-Receitas-master/app/src/main/res/layout/activity_tela_receita.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/TENTATIVA_DE_ATUALIZAR/Trabalho-3-Aplicativo-de-Receitas-master/app/src/main/res/layout/activity_tela_trocar_dados.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/TENTATIVA_DE_ATUALIZAR/Trabalho-3-Aplicativo-de-Receitas-master/app/src/main/res/layout/activity_tipo_comida.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/TENTATIVA_DE_ATUALIZAR/Trabalho-3-Aplicativo-de-Receitas-master/app/src/main/res/layout/fragment_pet.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/TENTATIVA_DE_ATUALIZAR/Trabalho-3-Aplicativo-de-Receitas-master/app/src/main/res/layout/item_lista_cardpet.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/laris/Documents/TENTATIVA_DE_ATUALIZAR/Trabalho-3-Aplicativo-de-Receitas-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.183" />
+        <entry key="..\:/Users/laris/Documents/Trabalho-3---Aplicativo-de-Receitas-master (1)esse/Trabalho-3---Aplicativo-de-Receitas-master-esse/app/src/main/res/layout/activity_tela_receita.xml" value="0.1" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-1-TENTANDO/Vers-o-1-master/app/src/main/res/layout/activity_cadastro_ingrediente.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-1-TENTANDO/Vers-o-1-master/app/src/main/res/layout/activity_cadastro_pet.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-1-TENTANDO/Vers-o-1-master/app/src/main/res/layout/activity_cadastro_user.xml" value="0.234375" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-1-TENTANDO/Vers-o-1-master/app/src/main/res/layout/activity_cadastro_veterinario.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-1-TENTANDO/Vers-o-1-master/app/src/main/res/layout/activity_cronograma_semanal.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-1-TENTANDO/Vers-o-1-master/app/src/main/res/layout/activity_lista_compras.xml" value="0.234375" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-1-TENTANDO/Vers-o-1-master/app/src/main/res/layout/activity_login.xml" value="0.234375" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-1-TENTANDO/Vers-o-1-master/app/src/main/res/layout/fragment_ingrediente.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-1-TENTANDO/Vers-o-1-master/app/src/main/res/layout/fragment_pet.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-1-TENTANDO/Vers-o-1-master/app/src/main/res/layout/fragment_vet.xml" value="0.19145299145299147" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-1-TENTANDO/Vers-o-1-master/app/src/main/res/layout/item_lista_cardingrediente.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-1-TENTANDO/Vers-o-1-master/app/src/main/res/layout/item_lista_cardpet.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-1-TENTANDO/Vers-o-1-master/app/src/main/res/layout/item_lista_vet.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-2-master/Vers-o-2-master/app/src/main/res/layout/activity_lista_compras.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-2-master/Vers-o-2-master/app/src/main/res/layout/fragment_ingrediente.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-2-master/Vers-o-2-master/app/src/main/res/layout/fragment_vet.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-2-master/Vers-o-2-master/app/src/main/res/layout/item_lista_ingrediente.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-2-master/Vers-o-2-master/app/src/main/res/layout/item_lista_vet.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-3-TENTANDO/Vers-o-3-master/app/src/main/res/layout/activity_cadastro_ingrediente.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-3-TENTANDO/Vers-o-3-master/app/src/main/res/layout/activity_cadastro_pet.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-3-TENTANDO/Vers-o-3-master/app/src/main/res/layout/activity_cadastro_veterinario.xml" value="0.1" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-3-TENTANDO/Vers-o-3-master/app/src/main/res/layout/activity_cronograma_semanal.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-3-TENTANDO/Vers-o-3-master/app/src/main/res/layout/activity_informacoes_conta.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-3-TENTANDO/Vers-o-3-master/app/src/main/res/layout/activity_lista_compras.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-3-TENTANDO/Vers-o-3-master/app/src/main/res/layout/activity_tela_excluir_conta.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-3-TENTANDO/Vers-o-3-master/app/src/main/res/layout/fragment_ingrediente.xml" value="0.1" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-3-TENTANDO/Vers-o-3-master/app/src/main/res/layout/fragment_pet.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-3-TENTANDO/Vers-o-3-master/app/src/main/res/layout/fragment_vet.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-3-TENTANDO/Vers-o-3-master/app/src/main/res/layout/item_lista_cardingrediente.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-3-TENTANDO/Vers-o-3-master/app/src/main/res/layout/item_lista_cardpet.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-3-TENTANDO/Vers-o-3-master/app/src/main/res/layout/item_lista_ingrediente.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-3-TENTANDO/Vers-o-3-master/app/src/main/res/layout/item_lista_vet.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-6-ESSE-EDITANDO/Vers-o-6-master/app/src/main/res/layout/activity_cadastro_ingrediente.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-6-ESSE-EDITANDO/Vers-o-6-master/app/src/main/res/layout/fragment_ingrediente.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-6-ESSE-EDITANDO/Vers-o-6-master/app/src/main/res/layout/item_lista_cardingrediente.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-6-ESSE-EDITANDO/Vers-o-6-master/app/src/main/res/layout/item_lista_cardpet.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-6-ESSE-EDITANDO/Vers-o-6-master/app/src/main/res/layout/item_lista_ingrediente.xml" value="0.264" />
+        <entry key="..\:/Users/laris/Documents/Vers-o-6-ESSE-EDITANDO/Vers-o-6-master/app/src/main/res/layout/item_lista_vet.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/aplicativo-receitas/app-receitas/app/src/main/res/drawable/background.xml" value="0.138" />
+        <entry key="..\:/Users/laris/Documents/aplicativo-receitas/app-receitas/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.138" />
+        <entry key="..\:/Users/laris/Documents/aplicativo-receitas/app-receitas/app/src/main/res/layout/activity_cadastro_user.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/laris/Documents/aplicativo-receitas/app-receitas/app/src/main/res/layout/activity_informacoes_conta.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/laris/Documents/aplicativo-receitas/app-receitas/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/laris/Documents/aplicativo-receitas/app-receitas/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/laris/Documents/aplicativo-receitas/app-receitas/app/src/main/res/layout/activity_tela_excluir_conta.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/laris/Documents/aplicativo-receitas/app-receitas/app/src/main/res/layout/activity_tela_inicial.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/laris/Documents/aplicativo-receitas/app-receitas/app/src/main/res/layout/activity_tela_lista_receitas.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/laris/Documents/aplicativo-receitas/app-receitas/app/src/main/res/layout/activity_tela_receita.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/laris/Documents/aplicativo-receitas/app-receitas/app/src/main/res/layout/activity_tela_receitas_doces.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/laris/Documents/aplicativo-receitas/app-receitas/app/src/main/res/layout/activity_tela_trocar_dados.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/laris/Documents/aplicativo-receitas/app-receitas/app/src/main/res/layout/activity_tela_usuario.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/laris/Documents/aplicativo-receitas/app-receitas/app/src/main/res/layout/activity_tipo_comida.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/laris/Documents/vers-o-11-master (3)/vers-o-11-master/app/src/main/res/layout/activity_cadastro_cronograma.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/laris/Documents/vers-o-11-master (3)/vers-o-11-master/app/src/main/res/layout/activity_cadastro_ingrediente.xml" value="0.234375" />
+        <entry key="..\:/Users/laris/Documents/vers-o-11-master (3)/vers-o-11-master/app/src/main/res/layout/activity_cadastro_pet.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/vers-o-11-master (3)/vers-o-11-master/app/src/main/res/layout/activity_cadastro_receita.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/vers-o-11-master (3)/vers-o-11-master/app/src/main/res/layout/activity_cadastro_user.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/vers-o-11-master (3)/vers-o-11-master/app/src/main/res/layout/activity_cronograma_semanal.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/vers-o-11-master (3)/vers-o-11-master/app/src/main/res/layout/activity_informacoes_conta.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/vers-o-11-master (3)/vers-o-11-master/app/src/main/res/layout/activity_lista_compras.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/vers-o-11-master (3)/vers-o-11-master/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/vers-o-11-master (3)/vers-o-11-master/app/src/main/res/layout/activity_main.xml" value="0.16770833333333332" />
+        <entry key="..\:/Users/laris/Documents/vers-o-11-master (3)/vers-o-11-master/app/src/main/res/layout/activity_tela_excluir_conta.xml" value="0.234375" />
+        <entry key="..\:/Users/laris/Documents/vers-o-11-master (3)/vers-o-11-master/app/src/main/res/layout/activity_tela_lista_receitas.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/vers-o-11-master (3)/vers-o-11-master/app/src/main/res/layout/activity_tela_receita.xml" value="0.234375" />
+        <entry key="..\:/Users/laris/Documents/vers-o-11-master (3)/vers-o-11-master/app/src/main/res/layout/activity_tela_trocar_dados.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/vers-o-11-master (3)/vers-o-11-master/app/src/main/res/layout/activity_tipo_comida.xml" value="0.234375" />
+        <entry key="..\:/Users/laris/Documents/vers-o-11-master (3)/vers-o-11-master/app/src/main/res/layout/fragment_cronograma.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/laris/Documents/vers-o-11-master (3)/vers-o-11-master/app/src/main/res/layout/fragment_ingrediente.xml" value="0.234375" />
+        <entry key="..\:/Users/laris/Documents/vers-o-11-master (3)/vers-o-11-master/app/src/main/res/layout/fragment_pet.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/vers-o-11-master (3)/vers-o-11-master/app/src/main/res/layout/fragment_receita.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/vers-o-11-master (3)/vers-o-11-master/app/src/main/res/layout/item_lista_cardpet.xml" value="0.234375" />
+        <entry key="..\:/Users/laris/Documents/vers-o-11-master (3)/vers-o-11-master/app/src/main/res/layout/item_lista_cronograma.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/laris/Documents/vers-o-11-master (3)/vers-o-11-master/app/src/main/res/layout/item_lista_ingrediente.xml" value="0.264" />
+        <entry key="..\:/Users/laris/Documents/vers-o-11-master (3)/vers-o-11-master/app/src/main/res/layout/item_lista_receita.xml" value="0.234375" />
+        <entry key="..\:/Users/laris/Documents/vers-o-13-master/vers-o-13-master/app/src/main/res/layout/activity_cadastro_user.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/vers-o-13-master/vers-o-13-master/app/src/main/res/layout/activity_cronograma_semanal.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/vers-o-13-master/vers-o-13-master/app/src/main/res/layout/activity_lista_compras.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/vers-o-13-master/vers-o-13-master/app/src/main/res/layout/activity_tela_receita.xml" value="0.25" />
+        <entry key="..\:/Users/laris/Documents/vers-o-8-master/vers-o-8-master/app/src/main/res/layout/activity_cadastro_ingrediente.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/laris/Documents/vers-o-8-master/vers-o-8-master/app/src/main/res/layout/activity_cadastro_pet.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/laris/Documents/vers-o-8-master/vers-o-8-master/app/src/main/res/layout/activity_cadastro_receita.xml" value="0.2" />
+        <entry key="..\:/Users/laris/Documents/vers-o-8-master/vers-o-8-master/app/src/main/res/layout/activity_cronograma_semanal.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/laris/Documents/vers-o-8-master/vers-o-8-master/app/src/main/res/layout/activity_informacoes_conta.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/laris/Documents/vers-o-8-master/vers-o-8-master/app/src/main/res/layout/activity_lista_compras.xml" value="0.18125" />
+        <entry key="..\:/Users/laris/Documents/vers-o-8-master/vers-o-8-master/app/src/main/res/layout/activity_main.xml" value="0.18125" />
+        <entry key="..\:/Users/laris/Documents/vers-o-8-master/vers-o-8-master/app/src/main/res/layout/activity_tela_excluir_conta.xml" value="0.18125" />
+        <entry key="..\:/Users/laris/Documents/vers-o-8-master/vers-o-8-master/app/src/main/res/layout/activity_tela_lista_receitas.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/laris/Documents/vers-o-8-master/vers-o-8-master/app/src/main/res/layout/activity_tipo_comida.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/laris/Documents/vers-o-8-master/vers-o-8-master/app/src/main/res/layout/fragment_ingrediente.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/laris/Documents/vers-o-8-master/vers-o-8-master/app/src/main/res/layout/fragment_pet.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/laris/Documents/vers-o-8-master/vers-o-8-master/app/src/main/res/layout/fragment_receita.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/laris/Documents/vers-o-8-master/vers-o-8-master/app/src/main/res/layout/item_lista_cardpet.xml" value="0.264" />
+        <entry key="..\:/Users/laris/Documents/vers-o-8-master/vers-o-8-master/app/src/main/res/layout/item_lista_ingrediente.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/laris/Documents/vers-o-8-master/vers-o-8-master/app/src/main/res/layout/item_lista_receita.xml" value="0.264" />
+        <entry key="..\:/Users/mauri/AndroidStudioProjects/ClinicaVeterinaria/app/src/main/res/layout/activity_cadastro_user.xml" value="0.33" />
+        <entry key="..\:/Users/mauri/AndroidStudioProjects/ClinicaVeterinaria/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/mauri/AndroidStudioProjects/ClinicaVeterinaria/app/src/main/res/layout/activity_tela_inicial.xml" value="0.33" />
+        <entry key="..\:/Users/mauri/AndroidStudioProjects/ClinicaVeterinaria/app/src/main/res/layout/activity_tela_inicial_app.xml" value="0.33" />
+        <entry key="..\:/Users/mauri/AndroidStudioProjects/ClinicaVeterinaria/app/src/main/res/layout/activity_tela_usuario.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
